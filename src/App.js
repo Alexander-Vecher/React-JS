@@ -12,6 +12,7 @@ let App = () => {
             <Profile/>
 
         </div>
+
     )
 }
 
